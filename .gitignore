@@ -1,0 +1,4 @@
+server
+output/
+*.dSYM
+.DS_Store
