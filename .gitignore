@@ -1,4 +1,8 @@
 server
 output/
 *.dSYM
+*.o
+*.out
+*_server
+practice_02
 .DS_Store
